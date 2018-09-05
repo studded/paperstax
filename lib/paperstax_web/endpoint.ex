@@ -16,12 +16,11 @@ defmodule PaperstaxWeb.Endpoint do
         fonts
         images
         js
-        favicon.ico
-        robots.txt
         apple-touch-icon.png
         browserconfig.xml
+        favicon.ico
+        robots.txt
         site.webmanifest
-        safari-pinned-tab.svg
       )
   )
 
