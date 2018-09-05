@@ -11,8 +11,18 @@ defmodule PaperstaxWeb.Endpoint do
     at: "/",
     from: :paperstax,
     gzip: false,
-    only:
-      ~w(css fonts images js favicon.ico robots.txt browserconfig.xml site.webmanifest safari-pinned-tab.svg)
+    only: ~w(
+        css
+        fonts
+        images
+        js
+        favicon.ico
+        robots.txt
+        apple-touch-icon.png
+        browserconfig.xml
+        site.webmanifest
+        safari-pinned-tab.svg
+      )
   )
 
   # Code reloading can be explicitly enabled under the
