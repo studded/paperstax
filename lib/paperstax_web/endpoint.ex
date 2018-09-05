@@ -35,7 +35,7 @@ defmodule PaperstaxWeb.Endpoint do
   plug Plug.Session,
     store: :cookie,
     key: "_paperstax_key",
-    signing_salt: "lKqnziPs"
+    signing_salt: "mUMCQuJI"
 
   plug PaperstaxWeb.Router
 

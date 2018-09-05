@@ -12,7 +12,7 @@ config :paperstax,
 # Configures the endpoint
 config :paperstax, PaperstaxWeb.Endpoint,
   url: [host: "localhost"],
-  secret_key_base: "ocmNKPYQ8ehEVzB+zItOHwS7Q3Pe0FQtzwZX0LZ7ebZfmg8dBSr+Qadt2yD5spFP",
+  secret_key_base: "PM1YZhID1MeobM4BHYJdcbfDwt5ne/gFAvHD/TO/0LsKayJa2gHvjndpwwuN+KLN",
   render_errors: [view: PaperstaxWeb.ErrorView, accepts: ~w(html json)],
   pubsub: [name: Paperstax.PubSub,
            adapter: Phoenix.PubSub.PG2]
