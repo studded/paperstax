@@ -20,6 +20,7 @@ defmodule PaperstaxWeb.Endpoint do
         browserconfig.xml
         favicon.ico
         robots.txt
+        site.webmanifest
       )
   )
 
