@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>PaperStax Project</title>
+    <title>PaperStax</title>
     <link rel="stylesheet" href="<%= static_path(@conn, "/css/app.css") %>">
     
     <link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon.png">
