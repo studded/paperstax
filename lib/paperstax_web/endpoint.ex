@@ -16,6 +16,10 @@ defmodule PaperstaxWeb.Endpoint do
         fonts
         images
         js
+        apple-touch-icon.png
+        browserconfig.xml
+        favicon.ico
+        robots.txt
       )
   )
 
