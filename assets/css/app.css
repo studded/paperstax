@@ -1,1 +1,14 @@
 /* This file is for your main application css. */
+body {
+  font-family: sans-serif;
+}
+
+.logo_large {
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;
+}
+.logo_large img {
+  width:298px;
+  height:308px;
+}
