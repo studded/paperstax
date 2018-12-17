@@ -12,3 +12,29 @@ body {
   width:298px;
   height:308px;
 }
+
+.navigation {
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;
+}
+
+.navigation a {
+  text-decoration:underline;
+  color:black;
+}
+.navigation a:hover {
+  text-decoration:none;
+}
+.divider {
+  text-align:center;
+}
+.muted {
+  color:gray;
+}
+
+.doc {
+  margin-left:30%;
+  margin-right:30%;
+  min-width:400px;
+}

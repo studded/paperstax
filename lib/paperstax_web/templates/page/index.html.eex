@@ -1,4 +1,21 @@
 <div class="logo_large">
   <img src="<%= static_path(@conn, "/images/logo.jpg") %>" />
-  <p>Coming soon.</p>
+</div>
+<div class="navigation">
+  <h3>
+    <span class="muted">[</span>
+    <a href="https://www.instagram.com/paperstaxproject/">instagram</a>
+    <span class="muted">]&nbsp;&nbsp;&nbsp;[</span>
+    <a href="https://paperstaxproject.bigcartel.com/">store</a>
+    <span class="muted">]</span>
+  </h3>
+</div>
+
+<div class="divider muted">–––</div>
+
+<div class="doc">
+  <h2>OUR MISSION</h2>
+  <p><strong>The PaperStax Project</strong> was created to inspire and enable self-actualization through journaling. We do this by designing, producing and selling pocket notebooks in order to fund the donation of notebooks and curriculum to programs working with young people.</p>
+  <p>Your support of PaperStax enables us to help someone change their life.</p>
+  <p>Thank you for your support.</p>
 </div>
